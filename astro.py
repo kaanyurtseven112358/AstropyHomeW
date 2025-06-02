@@ -69,7 +69,7 @@ for i in range(len(fnames)):
 from scipy.ndimage import gaussian_filter
 
 
-image_dir = '/home/kyurtsev24/Downloads/science_images'
+image_dir = exctract_dir
 
 # FWHM in arcseconds
 fwhm_arcsec = 1.5  
